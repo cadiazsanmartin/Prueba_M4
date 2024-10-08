@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio02</string>
+    <string name="title_activity_fullscreen">The Rocket Inc</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_content2">LALA\nLALOLA</string>
+</resources>
